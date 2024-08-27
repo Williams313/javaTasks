@@ -1,0 +1,20 @@
+int largest = I nteger.MINIMUM_VALUE;
+        int smallest = Integer.MAXIMUM_VALUE;
+
+        for (int count = 0; count < 5; count++) {
+            System.out.print("Enter integer " + (i + 1) + ": ");
+            int num = scanner.nextInt();
+
+            if (num > largest) {
+                largest = num;
+            }
+            if (num < smallest) {
+                smallest = num;
+            }
+        }
+
+        System.out.println("Largest integer: " + largest);
+        System.out.println("Smallest integer: " + smallest);
+    }
+}
+``

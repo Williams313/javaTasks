@@ -11,7 +11,7 @@ System.out.print("Enter three numbers: ");
 
  double average = (number1 + number2 + number3) / 3;
 
- System.out.printf("The average of numbers " + %d );
+ System.out.println("The average of numbers is IntegerAverage " + double average);
 } 
 }
- ;         
+          

@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 def find_max_and_count():
     numbers = input("Enter a number: ")
     if numbers == '0':
